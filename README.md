@@ -1,6 +1,6 @@
 ## _Welcome to my github profile_ :wave: 
 
-### :man: My name is Wellington, I'm 21 years old and I live in Brazil 
+### :man: My name is Wellington, I'm 22 years old and I live in Brazil 
 
 ### :mortar_board: Education
 
@@ -10,8 +10,8 @@
     "school": "Instituto Federal Fluminense",
     "status": "finished"
   },
-  "Computer Science": {
-    "school": "Universidade Estadual do Norte Fluminense",
+  "Information Systems": {
+    "school": "Instituto Federal Fluminense",
     "status": "studying"
   },
   "languages": {
