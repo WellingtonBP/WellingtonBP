@@ -20,7 +20,7 @@
       "read": "proficient",
       "listener": "proficient",
       "speech": "intermediate",
-      "write": "Intermediate"
+      "write": "intermediate"
     }
   }
 }
