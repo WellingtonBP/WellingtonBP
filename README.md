@@ -1,6 +1,6 @@
 ## _Welcome to my github profile_ :wave: 
 
-### :man: My name is Wellington, I'm 22 years old and I live in Brazil 
+### :man: My name is Wellington, I'm 23 years old and I live in Brazil 
 
 ### :mortar_board: Education
 
